@@ -7,7 +7,7 @@ export function Logo() {
         <Crown className="h-5 w-5" />
       </div>
       <span className="text-lg font-semibold tracking-tight">Webza</span>
-      <Badge className="ml-1" variant="secondary">Atelier</Badge>
+      <Badge className="ml-1" variant="secondary">Software Studio</Badge>
     </div>
   );
 }
